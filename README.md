@@ -1,4 +1,4 @@
-# amazon_recommendation
+# Amazon Recommendation System
 The Amazon Recommendation System is a content-based recommendation system designed to suggest products to users based on their similarity to a selected product. This system leverages product features such as titles, ratings, and other attributes to compute similarities and recommend the most relevant items. The recommendation engine is implemented using Python and Streamlit, making it an interactive and user-friendly web application.
 ## Dataset
 I obtained the dataset from Amazon Reviews 2023. The main challenge I faced was the enormous size of the dataset, which was provided in JSON format. Converting such a large JSON file to CSV was time-consuming. However, I managed to find a solution with a code snippet from ChatGPT that efficiently handled the conversion.
